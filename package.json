@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Node.js, Express.js & Prisma RealWorld official app",
   "main": "index.js",
-  "engines" : { 
-    "npm" : ">=10.8.0 <11.0.0",
-    "node" : ">=20.16.0 <20.17.0"
+  "engines" : {
+    "node" : "20.x"
   },
   "scripts": {
     "postinstall": "tsc",
